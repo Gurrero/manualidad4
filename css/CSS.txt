@@ -1,0 +1,59 @@
+.izquierda {
+   background: #5eda7d;
+   height: 100vh;
+   width: 50%;
+}
+
+.derecha {
+   background:url('../image/deco.png');
+   background-size: cover;
+   background-position: center;
+   width: 50%;
+   height: 100vh; 
+}
+
+#video-temp {
+    display: flex;
+}
+
+.dise {
+     color: #dcd8d8;
+}
+
+.spa {
+     font-size: 60px;
+     width: 50%;
+     margin: auto;
+     margin-bottom: 40px;
+     font-family: 'Monserrat', sans-serif;
+     margin-left: 80px;
+}
+
+.texto1 {
+     font-size: 19px;
+     line-height: 30px;
+     width: 50%;
+     margin: auto;
+     font-family: 'Monserrat', sans-serif;
+     margin-left: 80px;
+}
+
+.boton {
+     border: 3px solid #fff;
+     padding: 20px;
+     text-decoration: none;
+     color: rgb(4, 19, 14);
+     border-radius: 30px;
+     font-weight: bold;
+     display: inline-block;
+     margin-top: 30px;
+     margin-left: 80px;
+
+}
+
+.video-temp {
+     margin: 0 auto;
+     padding-top: 10px ;
+     width: 400px;
+     
+}
